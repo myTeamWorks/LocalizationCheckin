@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PluginName>Location Checkin</PluginName>
+  <Description>Let the world know where you are</Description>
+  <CallbackMethod>GetCurrentPosition</CallbackMethod>
+  <Version>1</Version>
+  <ExternalScripts>
+    <string>http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0</string>
+  </ExternalScripts>
+</PluginConfiguration>
